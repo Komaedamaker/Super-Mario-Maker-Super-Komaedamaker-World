@@ -1,4 +1,4 @@
-# Super-Komaeda-Maker-World-in-Mario-Maker
+# Super Mario Maker: Super-Komaedamaker-World
 
 ## Maker ID: LYX-0GW-L5G
 
