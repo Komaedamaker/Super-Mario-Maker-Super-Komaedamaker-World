@@ -11,8 +11,10 @@ and make it feel worth exploring. I am grateful for this resource that Nintendo 
 intricately complex environment such as Super Mario Maker. If you're interested in playing through my super world, I left my Maker ID in the beginning of this readme and some 
 preview pictures below. Thank you for playing my game.
 #
-![mario_falling](https://github.com/user-attachments/assets/f77118a9-6423-4947-bd12-5083382bd304)
+
+![mario_falling](https://github.com/user-attachments/assets/f32216c9-5860-46f7-bc38-df37b05fd9cc)
 #
-![link_arrow](https://github.com/user-attachments/assets/596323ef-e9fb-4ff9-a180-b2d317ab06ae)
+![link_arrow](https://github.com/user-attachments/assets/e4337244-ecef-4d80-89e5-16f94a58e338)
 #
-![bowser_jr_fight](https://github.com/user-attachments/assets/13e6f962-0c8a-4f86-b43a-beefd41943a7)
+![bowser_jr_fight](https://github.com/user-attachments/assets/f6a6cb6b-aa9a-40c7-b7e6-17c3c71dbef0)
+#
